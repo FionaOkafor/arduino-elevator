@@ -3,7 +3,7 @@
 
 
 
-The idea is to add some fun and excitement to a mundane moment of the day. A motion sensor detects when someone enters the elevator, the lights turn on with a light display and the sound comes on.
+The idea is to add some fun and excitement to a mundane part of the day. A motion sensor detects when someone enters the elevator, the lights turn on with a light display and the sound comes on.
 
 ![](header.png)
 
